@@ -1,7 +1,27 @@
 header {
-  padding: 20px 0;
+ padding: 20px;
 }
 
 .jumbotron {
-    background-image: url(freejeanstitchimagepxhere.com.jpg);
+
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  padding-block-end: 20px;
+
+
+}
+
+#stitch {
+  background-image: url('freejeanstitchimagepxhere.com.jpg');
+}
+
+#brick {
+  background-image: url('freebrickimagepxhere.com.jpg');
+}
+
+#pencil {
+  background-image: url('freepencilimagepxhere.com.jpg');
 }
