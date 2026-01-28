@@ -123,5 +123,11 @@ img:hover{
     text-align: center;
 }
 
+#picturerow{
+    margin-left: 8vh;
+    padding:2vh;
+    object-fit: cover;
+}
+
 
 
