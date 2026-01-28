@@ -1,5 +1,5 @@
 header {
- padding: 20px;
+ padding: 5vh;
 }
 
 body {
@@ -23,6 +23,23 @@ img:hover{
     filter: grayscale(0%);
 
 }
+
+#stitch {
+    position:relative;
+}
+
+.mybutton {
+    background-color: rgb(153, 16, 94);
+    color: rgb(255, 255, 255);
+    border: 1px  rgb(255, 255, 255);
+    position:absolute;
+    bottom:45%;
+    right:40%;
+    width:20%;
+    height:10%;
+
+}
+
 
 
 
