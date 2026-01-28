@@ -10,8 +10,18 @@ body {
 
 #jumbo{
     height: 400px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    object-fit: cover;
+}
+
+img{
+    filter: grayscale(100%);
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+img:hover{
+    filter: grayscale(0%);
+
 }
 
 
