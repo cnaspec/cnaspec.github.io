@@ -1,5 +1,7 @@
 header {
  padding: 5vh;
+ border-bottom: 3vh solid rgb(153, 16, 94);
+ margin-bottom: 3vh;
 }
 
 body {
@@ -8,15 +10,32 @@ body {
   font-style: normal;
 }
 
+h3{
+    color:rgb(153, 16, 94);
+}
+
+h4{
+    color:rgb(153, 16, 94);
+}
+
+#info{
+ border-bottom: 1vh solid rgb(153, 16, 94);
+ margin-bottom: 1vh;
+ border-top: 1vh solid rgb(153, 16, 94);
+ padding: 3vh;
+}
+
 #jumbo{
     height: 400px;
     object-fit: cover;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
 }
 
 img{
     filter: grayscale(100%);
-    padding-top: 5vh;
-    padding-bottom: 5vh;
+    padding-top: 3vh;
+    padding-bottom: 3vh;
 }
 
 img:hover{
