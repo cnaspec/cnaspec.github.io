@@ -28,7 +28,7 @@ h5{
     color:rgb(153, 16, 94);
 }
 
-#pinktext{
+.pinktext{
     color:rgb(153, 16, 94); 
 }
 
@@ -119,11 +119,11 @@ img:hover{
     padding: 3vh;
 }
 
-#centre{
+.centre{
     text-align: center;
 }
 
-#picturerow{
+.picturerow{
     margin-left: 8vh;
     padding:2vh;
     object-fit: cover;
