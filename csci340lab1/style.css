@@ -26,11 +26,11 @@ h4{
 }
 
 #jumbo{
-    height: 400px;
     object-fit: cover;
     margin-top: 1vh;
     margin-bottom: 1vh;
 }
+
 
 img{
     filter: grayscale(100%);
@@ -86,7 +86,16 @@ img:hover{
     position: absolute;
 }
 
+#pagescontent{
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    border: 1vh solid rgb(153, 16, 94);
+    padding: 3vh;
+}
 
+#centre{
+    text-align: center;
+}
 
 
 
