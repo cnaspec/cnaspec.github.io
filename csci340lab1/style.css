@@ -24,11 +24,31 @@ h4{
     color:rgb(153, 16, 94);
 }
 
+h5{
+    color:rgb(153, 16, 94);
+}
+
+#pinktext{
+    color:rgb(153, 16, 94); 
+}
+
+footer{
+  background-color: rgb(153, 16, 94);
+  color: rgb(255, 255, 255);
+  padding: 5vh;
+  margin-top: 3vh;
+
+}
+
 #info{
  border-bottom: 1vh solid rgb(153, 16, 94);
  margin-bottom: 1vh;
  border-top: 1vh solid rgb(153, 16, 94);
  padding: 3vh;
+}
+
+li::marker{
+    color:rgb(153, 16, 94); 
 }
 
 #jumbo{
