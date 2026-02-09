@@ -21,9 +21,11 @@ $(document).ready(function() {
             } else {
             $('#change').attr("src", results["url"]);
             }
-        },
+            }
         })
         $("#warning").text("The dogs have smelled the meat.")
+        $("#message").text("I think you need to run.")
+
     })
 
 });
