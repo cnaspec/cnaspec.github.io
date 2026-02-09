@@ -23,7 +23,7 @@ $(document).ready(function() {
             }
         },
         })
-        $("#data").text("The dogs have smelled the meat.")
+        $("#warning").text("The dogs have smelled the meat.")
     })
 
 });
