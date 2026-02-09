@@ -11,7 +11,6 @@ $(document).ready(function() {
         });
     });
 
-
     $("#dog").click( function(){
         $.ajax({
             url: "https://random.dog/woof.json",
