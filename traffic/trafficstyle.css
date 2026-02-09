@@ -1,0 +1,26 @@
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color:black;
+    border-radius: 50%;
+    margin: 25px;
+}
+.rectangle{
+    width: 150px;
+    height: 400px;
+    background-color:black;
+    padding: 25px;
+
+}
+
+#green{
+    background-color: rgb(19, 76, 19);
+}
+
+#yellow{
+    background-color: rgb(107, 107, 53);
+}
+
+#red{
+    background-color: rgb(123, 60, 60);
+}
