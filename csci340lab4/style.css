@@ -1,0 +1,38 @@
+header {
+ padding: 5vh;
+ background-color:  rgb(106, 15, 15);
+ border-bottom: 3vh solid rgb(221, 188, 134);
+ color: white;
+ margin-bottom: 3vh;
+ font-family: "Sancreek", serif;
+}
+
+body {
+  font-family: "Sancreek", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1{
+  font-family: "Sancreek", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3{
+  font-family: "Rubik Burned", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color:  rgb(106, 15, 15)
+
+}
+
+
+footer{
+  background-color: rgb(106, 15, 15);
+  color: rgb(255, 255, 255);
+  padding: 5vh;
+  border-top: 3vh solid rgb(221, 188, 134);
+  margin-top: 3vh;
+
+}
