@@ -65,7 +65,7 @@ img{
 }
 
 img:hover{
-    filter: grayscale(0%);
+    filter: grayscale(20%);
 
 }
 
